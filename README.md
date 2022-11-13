@@ -5,5 +5,4 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning data structures and algorithms using javascript.
 
